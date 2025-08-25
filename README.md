@@ -8,7 +8,7 @@
 <p align="center">
   <b>Fullstack-Webentwickler</b> · Laravel · Vue · Tailwind  
   <br/>
-  Leidenschaft für <i>sauberen Code</i>, performante Features und moderne UI/UX.
+  Leidenschaft für <i>moderene UI/UX</i>, performanten Code und Durstlöscher.
 </p>
 
 ---
@@ -16,8 +16,8 @@
 ## 🧩 Über mich
 - 💻 Seit 2014 in der Webentwicklung unterwegs
 - 🚀 Fokus auf **Laravel**, **Vue.js** & **TailwindCSS**
-- 🎨 Liebe **perfektes Design** und **gute Developer-Experience**
-- 🧠 Offen für neue Technologien
+- 🎨 Liebe **perfektes Design** und **Animationen**
+- 🧠 Offen für **neue** Technologien
 
 ---
 
