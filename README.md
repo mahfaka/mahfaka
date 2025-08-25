@@ -1,6 +1,6 @@
 <!-- Profilbanner -->
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/20663142" alt="Banner" width="250" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" />
 </p>
 
 <h1 align="center">Hey 👋, ich bin David</h1>
