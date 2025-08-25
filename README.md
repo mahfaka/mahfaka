@@ -1,6 +1,6 @@
 <!-- Profilbanner -->
 <p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzBjeTRkeHhseG50YnU4MHFpMXA4YTZnMjduaGkxY3lwMm1hcmV0cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/6KirhLJyR7oMcwgJQk/giphy.gif" width="250" />
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHRzNTI3MHY2OGszbnRrc2d4enJ6OXZtc2treDVkMXB5YzVvZ3JyaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/5zwEM1BIDYGQTv4306/giphy.gif" width="250" />
 </p>
 
 <h1 align="center">Hey, 👋 ich bin David</h1>
