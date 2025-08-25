@@ -50,5 +50,5 @@
 ---
 
 <p align="center">
-  <i>„Code ist besser, wenn man ihn nicht erklären muss.“</i>  
+  <i>„Code ist besser, wenn man ihn ~~nicht~~ erklären muss.“</i>  
 </p>
