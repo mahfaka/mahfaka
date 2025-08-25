@@ -3,7 +3,7 @@
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzBjeTRkeHhseG50YnU4MHFpMXA4YTZnMjduaGkxY3lwMm1hcmV0cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/6KirhLJyR7oMcwgJQk/giphy.gif" width="250" />
 </p>
 
-<h1 align="center">Hey 👋, ich bin David</h1>
+<h1 align="center">Hey, 👋 ich bin David</h1>
 
 <p align="center">
   <b>Fullstack-Webentwickler</b> · Laravel · Vue · Tailwind  
