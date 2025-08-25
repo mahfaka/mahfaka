@@ -36,10 +36,8 @@
 
 ---
 
-## 📌 Projekte & Ideen
-- 🛒 **Oskane** – Print-on-Demand E‑Commerce Plattform  
-- 🎧 **SpotBuddies** – Spotify Stats & Social Features  
-- 🧩 Interne Tools: **Angebotsverwaltung, Mietsysteme & Dashboards**  
+## 📌 Projekte
+- 🎧 **MuchBetterBot** – Discord Bot
 
 ---
 
